@@ -2,6 +2,8 @@
 - 🔭 Em busca de uma oportunidade....
 - 🌱 Estudando Java e JavaScript
 - 😄 Pronomes: Ela/dela
+   <img align="right" alt="Bia-gif" height="150" width="130" src="https://cdn.discordapp.com/attachments/827729475139665924/879330734769336370/ezgif.com-gif-maker.gif">
+
 
 
  <div>
@@ -24,7 +26,6 @@
   <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bia-Node" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
    
-   <img align="right" alt="Bia-gif" height="150" width="130" src="https://cdn.discordapp.com/attachments/827729475139665924/879330734769336370/ezgif.com-gif-maker.gif">
 </div>
   
 ##
