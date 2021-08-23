@@ -2,7 +2,7 @@
 - 🔭 Em busca de uma oportunidade....
 - 🌱 Estudando Java e JavaScript
 - 😄 Pronomes: Ela/dela
-   <img align="right" alt="Bia-gif" height="150" width="130" src="https://cdn.discordapp.com/attachments/827729475139665924/879330734769336370/ezgif.com-gif-maker.gif">
+  
 
 
 
@@ -10,6 +10,7 @@
   <a href="https://github.com/BiancaGiovanna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaGiovanna&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaGiovanna&layout=compact&langs_count=7&theme=synthwave"/>
+   <img align="right" alt="Bia-gif" height="150" width="130" src="https://cdn.discordapp.com/attachments/827729475139665924/879330734769336370/ezgif.com-gif-maker.gif">
 </div>
 
  <div style="display: inline_block"><br>
