@@ -1,5 +1,4 @@
 ## Hello! Eu sou Bianca Giovanna 
-- 🔭 Em busca de uma oportunidade....
 - 🌱 Estudando Java e JavaScript
 - 😄 Pronomes: Ela/dela
  
