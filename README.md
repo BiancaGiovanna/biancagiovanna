@@ -1,5 +1,5 @@
 ## Hello! Eu sou Bianca Giovanna 
-- 🌱 Estudando Java e JavaScript
+- 👩🏽‍💻Trabalhando com Java e ReactJS com TypeScript
 - 😄 Pronomes: Ela/dela
  
  <div>
