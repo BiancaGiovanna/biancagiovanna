@@ -1,6 +1,6 @@
 ## Hello! Eu sou Bianca Giovanna 
 - 👩🏽‍💻Trabalhando com Java e ReactJS com TypeScript
-- 😄 Pronomes: Ela/dela
+- 🏳‍⚧ Pronomes: Ela/dela
  
  <div>
   <a href="https://github.com/BiancaGiovanna">
