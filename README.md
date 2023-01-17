@@ -1,13 +1,14 @@
 ## Hello! Eu sou Bianca Giovanna 
 - 👩🏽‍💻Trabalhando com Java e ReactJS com TypeScript
 - 🏳‍⚧ Pronomes: Ela/dela
+- Mulher trans, 20 anos, atualmente estou me graduando em Analise e Desenvolvimento de Sistemas (1/5).
+Sou formada como Técnica de Desenvolvimento de Sistemas WEB.
+Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
+Desejo colaborar como uma excelente desenvolvedora, podendo colocar em pratica meus conhecimentos em desenvolvimento de software, objetivando sempre o benefício e o crescimento da empresa e o crescimento profissional.
  
  <div>
   <a href="https://github.com/BiancaGiovanna">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BiancaGiovanna&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaGiovanna&layout=compact&langs_count=7&theme=synthwave"/>
-   <img align="right" alt="Bia-gif" height="170em" width="150" src="https://cdn.discordapp.com/attachments/827729475139665924/879330734769336370/ezgif.com-gif-maker.gif">
-</div>
+ </div>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
