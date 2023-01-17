@@ -5,6 +5,11 @@
 - 👩🏽‍🎓 Formada como Técnica de Desenvolvimento de Sistemas WEB.
 - 👩🏽‍💻 Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
  
+  <div>
+  <a href="https://github.com/biancagiovanna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancagiovanna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancagiovanna&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  <div>
   <a href="https://github.com/BiancaGiovanna">
  </div>
