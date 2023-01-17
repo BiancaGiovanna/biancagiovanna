@@ -2,9 +2,8 @@
 - 👩🏽‍💻Trabalhando com Java e ReactJS com TypeScript
 - 🏳‍⚧ Pronomes: Ela/dela
 - Mulher trans, 20 anos, atualmente estou me graduando em Analise e Desenvolvimento de Sistemas (1/5).
-Sou formada como Técnica de Desenvolvimento de Sistemas WEB.
-Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
-Desejo colaborar como uma excelente desenvolvedora, podendo colocar em pratica meus conhecimentos em desenvolvimento de software, objetivando sempre o benefício e o crescimento da empresa e o crescimento profissional.
+- Formada como Técnica de Desenvolvimento de Sistemas WEB.
+- Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
  
  <div>
   <a href="https://github.com/BiancaGiovanna">
