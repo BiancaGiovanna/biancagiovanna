@@ -1,17 +1,15 @@
 ## Hello! Eu sou Bianca Giovanna 
-- 👩🏽‍💻Trabalhando com Java e ReactJS com TypeScript
-- 🏳‍⚧ Pronomes: Ela/dela
-- Mulher trans, 20 anos, atualmente estou me graduando em Analise e Desenvolvimento de Sistemas (1/5).
-- Formada como Técnica de Desenvolvimento de Sistemas WEB.
-- Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
+- 👩🏽‍💻Trabalhando com ReactJS e TypeScript
+- 🏳‍⚧ Mulher trans, pronomes: Ela/dela
+- 📕 Graduando em Analise e Desenvolvimento de Sistemas (1/5).
+- 👩🏽‍🎓 Formada como Técnica de Desenvolvimento de Sistemas WEB.
+- 👩🏽‍💻 Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
  
  <div>
   <a href="https://github.com/BiancaGiovanna">
  </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Bia-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Bia-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Bia-Php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +18,9 @@
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   
+  
+  <img align="center" alt="Bia-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Bia-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
 </div>
   
 ##
