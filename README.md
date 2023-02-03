@@ -1,9 +1,10 @@
 ## Hello! Eu sou Bianca Giovanna 
-- 👩🏽‍💻Trabalhando com ReactJS e TypeScript
-- 🏳‍⚧ Mulher trans, pronomes: Ela/dela
+- 🏳‍⚧ Mulher trans de 20 anos, pronomes: Ela/dela
+- 👩🏽‍💻Desenvolvedora Front-end com experiência em React.js, JavaScript, TypeScript, Styled Components e consumo de APIs REST.
+- 💜Completamente apaixonada pelo desenvolvimento Front-End.
+- 📆Experiência em projetos gerenciados por Metodologias ágeis.
 - 📕 Graduando em Analise e Desenvolvimento de Sistemas (1/5).
 - 👩🏽‍🎓 Formada como Técnica de Desenvolvimento de Sistemas WEB.
-- 👩🏽‍💻 Atuando como Analista de Sistemas Júnior Front-end | Back-end | FullStack.
  
   <div>
   <a href="https://github.com/biancagiovanna">
