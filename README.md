@@ -3,7 +3,7 @@
 - 👩🏽‍💻Desenvolvedora Full Stack com 2 anos de experiência em React.js, JavaScript, TypeScript, Styled Components, consumo e criação de APIs REST com PHP(Laravel) e Java SpringBoot.
 - 💜Completamente apaixonada pelo desenvolvimento de software.
 - 📆Experiência em projetos gerenciados por Metodologias ágeis.
-- 📕 Graduando em Analise e Desenvolvimento de Sistemas (2/5).
+- 📕 Graduando em Analise e Desenvolvimento de Sistemas (3/5).
 - 👩🏽‍🎓 Formada como Técnica de Desenvolvimento de Sistemas WEB.
  
   <div>
