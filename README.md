@@ -1,6 +1,6 @@
 ## Hello! Eu sou Bianca Giovanna 
 - 🏳‍⚧ Mulher trans de 20 anos, pronomes: Ela/dela
-- 👩🏽‍💻Desenvolvedora Full Stack com 2 anos de experiência em React.js, JavaScript, TypeScript, Styled Components, consumo e criação de APIs REST com PHP(Laravel) e Java SpringBoot.
+- 👩🏽‍💻Desenvolvedora Full Stack com 3 anos de experiência em React.js, JavaScript, TypeScript, Styled Components, consumo e criação de APIs REST com PHP(Laravel) e Java SpringBoot.
 - 💜Completamente apaixonada pelo desenvolvimento de software.
 - 📆Experiência em projetos gerenciados por Metodologias ágeis.
 - 📕 Graduando em Analise e Desenvolvimento de Sistemas (3/5).
