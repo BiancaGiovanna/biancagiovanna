@@ -1,9 +1,9 @@
 ## Hello! Eu sou Bianca Giovanna 
 - 🏳‍⚧ Mulher trans de 21 anos, pronomes: Ela/dela
-- 👩🏽‍💻Desenvolvedora Full Stack com 3 anos de experiência em React.js, JavaScript, TypeScript, Styled Components, consumo e criação de APIs REST com PHP(Laravel) e Java SpringBoot.
+- 👩🏽‍💻Desenvolvedora Full Stack com 3 anos de experiência em Angular V2+, React.js, JavaScript, TypeScript, Styled Components, consumo e criação de APIs REST com Java SpringBoot.
 - 💜Completamente apaixonada pelo desenvolvimento de software.
 - 📆Experiência em projetos gerenciados por Metodologias ágeis.
-- 📕 Graduando em Analise e Desenvolvimento de Sistemas (3/5).
+- 📕 Graduando em Analise e Desenvolvimento de Sistemas (4/5).
 - 👩🏽‍🎓 Formada como Técnica de Desenvolvimento de Sistemas WEB.
  
   <div>
@@ -25,8 +25,6 @@
   <img align="center" alt="Bia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Bia-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Bia-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
