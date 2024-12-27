@@ -1,7 +1,7 @@
 ## Hello! Eu sou Bianca Giovanna
 
 - 22 anos
-- 👩🏽‍💻Desenvolvedora Full Stack com 5 anos de experiência em Angular V2+, React.js, JavaScript, TypeScript, Styled Components, construção de micro-serviços com APIs REST com Java SpringBoot.
+- 👩🏽‍💻Engenheira de Software com 5 anos de experiência ultilizando Angular V2+, React.js, JavaScript, TypeScript, Java e SpringBoot.
 - 💜Completamente apaixonada pelo desenvolvimento de software.
 - 📆Experiência em projetos gerenciados por Metodologias ágeis.
 - 👩🏽‍🎓 Formada em Analise e Desenvolvimento de Sistemas WEB.
