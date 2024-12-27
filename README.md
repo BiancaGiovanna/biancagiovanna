@@ -2,8 +2,7 @@
 
 - 22 anos
 - 👩🏽‍💻Engenheira de Software com 5 anos de experiência ultilizando Angular V2+, React.js, JavaScript, TypeScript, Java e SpringBoot.
-- 💜Completamente apaixonada pelo desenvolvimento de software.
-- 📆Experiência em projetos gerenciados por Metodologias ágeis.
+- 💜Completamente apaixonada por desenvolvimento de software.
 - 👩🏽‍🎓 Formada em Analise e Desenvolvimento de Sistemas WEB.
 
   <div>
